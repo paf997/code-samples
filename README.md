@@ -1,3 +1,2 @@
 # code-samples
-# This is a sample of code for an assignment for Cmpt 317, Introduction to AI.  
-# The assignment was to create a 3 x 3 sliding puzzle and apply various search algorithms to solving it
+This repository has a number of code samples form my most recent classes, Cmpt 306 (Game Mechanics) and Cmpt 317 ( Introduction to AI)
